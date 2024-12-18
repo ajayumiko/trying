@@ -1,1 +1,1 @@
-console.log("ajay")
+console.log("ajay");
